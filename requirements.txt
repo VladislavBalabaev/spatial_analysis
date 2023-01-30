@@ -14,3 +14,4 @@ geopy==2.3.0
 openpyxl==3.0.10
 pysal==2.7.0
 plotly==5.13.0
+pmdarima==2.0.2
